@@ -2,11 +2,10 @@
  * Site header
  */
 .site-header {
-  // border-top: 5px solid $grey-color-dark;
-  // border-bottom: 1px solid $grey-color-light;
+  /*// border-top: 5px solid $grey-color-dark;*/
+  /*// border-bottom: 1px solid $grey-color-light;*/
   min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
+  /*// Positioning context for the mobile navigation icon*/
   position: relative;
 }
 
@@ -17,10 +16,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: white;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: white;
   }
 }
 
@@ -37,10 +37,10 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: white;
     line-height: $base-line-height;
 
-    // Gaps between nav items, but not on the last one
+    /*// Gaps between nav items, but not on the last one*/
     &:not(:last-child) {
       margin-right: 20px;
     }
@@ -106,11 +106,13 @@
  * Site footer
  */
 .site-footer {
-  // border-top: 1px solid $grey-color-light;
+  /*// border-top: 1px solid $grey-color-light;*/
   padding: 10px 0;
-  position: absolute;
-  bottom: 0;
+  /*position: absolute;*/
+  /*bottom: 0;*/
   width: 100%;
+  height: 50px;
+    /*margin-top: -50px;*/
 }
 
 .footer-heading {
@@ -133,8 +135,9 @@
 
 .footer-col {
   float: left;
-  // margin-bottom: $spacing-unit / 2;
+  /*// margin-bottom: $spacing-unit / 2;*/
   padding-left: $spacing-unit / 2;
+  color: white;
 }
 
 .footer-col-1 {
@@ -187,10 +190,13 @@
  */
 .page-content {
   padding: $spacing-unit 0;
-  margin: 0 70px;
-  // padding: 20px;
+  margin: $spacing-unit;
+  min-height: calc(100vh - (124px + (#{$spacing-unit}) * 4));
+  /*background: white;*/
+  /*height: 70vh;*/
+/*  // padding: 20px;
   // min-height: 100%;
-  // margin: 0 auto -46px;
+  // margin: 0 auto -46px;*/
 }
 
 .page-heading {
@@ -229,8 +235,9 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
-  border-bottom: 5px solid black;
+  border-bottom: 5px solid white;
   width: 20%;
+  color: white;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -239,6 +246,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  padding: $spacing-unit * 1.5;
+  background: white;
 
   h2 {
     @include relative-font-size(2);

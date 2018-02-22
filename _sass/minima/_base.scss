@@ -1,10 +1,10 @@
-// @mixin gradient {
-//   background: #ade0bf; /* For browsers that do not support gradients */
-//   background: -webkit-linear-gradient( #fbcb01, #ade0bf); /* For Safari 5.1 to 6.0 */
-//   background: -o-linear-gradient( #fbcb01, #ade0bf); /* For Opera 11.1 to 12.0 */
-//   background: -moz-linear-gradient( #fbcb01, #ade0bf); /* For Firefox 3.6 to 15 */
-//   background: linear-gradient( #fbcb01, #ade0bf); /* Standard syntax (must be last) */
-// }
+ @mixin gradient {
+   background: #ff4e56; /* For browsers that do not support gradients */
+   background: -webkit-linear-gradient( #ff844f, #ff4e56); /* For Safari 5.1 to 6.0 */
+   background: -o-linear-gradient( #ff844f, #ff4e56); /* For Opera 11.1 to 12.0 */
+   background: -moz-linear-gradient( #ff844f, #ff4e56); /* For Firefox 3.6 to 15 */
+   background: linear-gradient( #ff844f, #ff4e56); /* Standard syntax (must be last) */
+ }
 
 /**
  * Reset some basic elements
@@ -38,7 +38,11 @@ body {
   font-kerning: normal;
   background-repeat: no-repeat;
   height: 100%;
+  background-attachment: fixed;
   
+}
+p {
+  line-height: 1.7;
 }
 
 
