@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="968.374px" height="500px" viewBox="0 0 968.374 500" enable-background="new 0 0 968.374 500" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="26.999" y1="341.586" x2="230.988" y2="236.591"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="196.49" y1="341.586" x2="128.994" y2="193.094"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="128.994" y1="193.094" x2="454.477" y2="164.595"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="454.477" y1="164.595" x2="682.466" y2="257.59"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="644.218" y1="310.087" x2="611.22" y2="439.081"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="611.22" y1="439.081" x2="753.713" y2="374.584"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="805.459" y1="320.587" x2="731.963" y2="178.844"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="731.963" y1="178.844" x2="875.957" y2="146.596"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="517.474" y1="289.089" x2="508.475" y2="461.58"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="490.476" y1="443.581" x2="319.484" y2="305.588"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="346.483" y1="278.589" x2="550.473" y2="193.094"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="550.473" y1="193.094" x2="682.466" y2="193.094"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="380.981" y1="220.092" x2="283.486" y2="95.599"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="91.496" y1="109.098" x2="217.489" y2="157.846"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="380.981" y1="220.092" x2="490.476" y2="95.599"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="217.489" y1="157.846" x2="283.486" y2="95.599"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="91.496" y1="406.832" x2="217.489" y2="461.58"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="174.374" y1="470" x2="313.374" y2="394"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="279.374" y1="375.334" x2="424.374" y2="278.589"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="279.374" y1="375.334" x2="169.374" y2="383"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="875.957" y1="414" x2="1022.374" y2="505"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="875.957" y1="414" x2="900.374" y2="278.589"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="900.374" y1="278.589" x2="822.374" y2="257.59"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="822.374" y1="257.59" x2="796.374" y2="83"/>
+<circle cx="217.489" cy="157.846" r="4.125">
+	<animate
+		attributeName="cy"
+		from="127"
+		to="127"
+		begin="0s"
+		dur="4s"
+		values="127;117;117;90;90;127;127"
+		keySplines="
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1; 
+			0.1 0.8 0.2 1" 
+		keyTimes="
+			0;0.22;0.33;0.55;0.66;0.88;1" 
+		calcMode="spline"
+		repeatCount="indefinite"
+	/>
+</circle>
+<circle cx="381.427" cy="218.691" r="4.125"/>
+<circle cx="490.476" cy="95.599" r="4.125"/>
+<circle cx="454.477" cy="164.595" r="4.125"/>
+<circle cx="550.473" cy="193.094" r="4.125"/>
+<circle cx="680.473" cy="193.094" r="4.125"/>
+<circle cx="682.466" cy="257.59" r="4.125"/>
+<circle cx="731.963" cy="178.844" r="4.125"/>
+<circle cx="796.373" cy="83" r="4.125"/>
+<circle cx="875.957" cy="146.596" r="4.125"/>
+<circle cx="803.96" cy="318.5" r="4.125"/>
+<circle cx="753.714" cy="374.584" r="4.125"/>
+<circle cx="644.219" cy="310.087" r="4.125"/>
+<circle cx="517.474" cy="289.089" r="4.125"/>
+<circle cx="611.22" cy="439.081" r="4.125"/>
+<circle cx="508.475" cy="461.58" r="4.125"/>
+<circle cx="488.311" cy="443.581" r="4.125"/>
+<circle cx="319.484" cy="305.588" r="4.125"/>
+<circle cx="313.374" cy="394" r="4.125"/>
+<circle cx="279.374" cy="375.167" r="4.125"/>
+<circle cx="169.374" cy="383" r="4.125"/>
+<circle cx="217.489" cy="461.58" r="4.125"/>
+<circle cx="91.496" cy="406.832" r="4.125"/>
+<circle cx="196.49" cy="341.586" r="4.125"/>
+<circle cx="230.988" cy="236.591" r="4.125"/>
+<circle cx="128.993" cy="193.094" r="4.125"/>
+<circle cx="91.496" cy="109.098" r="4.125"/>
+<circle cx="173.498" cy="470" r="4.125"/>
+<circle cx="26.999" cy="341.586" r="4.125"/>
+<circle cx="422.374" cy="278.589" r="4.125"/>
+<circle cx="822.374" cy="257.59" r="4.125"/>
+<circle cx="900.374" cy="278.589" r="4.125"/>
+<circle cx="875.957" cy="414" r="4.125"/>
+<circle cx="347.749" cy="278.589" r="4.125"/>
+<circle cx="283.486" cy="95.599" r="4.125"/>
+</svg>
