@@ -5,5 +5,27 @@ name: michael
 categories: product building
 blurb: Website to showcase the art of Michael Barnett
 ---
-The company website for Appallicious.
-After spending a couple of years working there, the company website always bugged me. I took it upon myself to design and develop a new website for the company
+<div class='project-page'>
+	<div class='project-page__header-container'>
+		<div class='project-page__blurb'>
+			Personal website for artist Michael Barnett. 
+			<br>Static creative website.
+		</div>
+
+
+		<ul class='project-page__tech'>
+			<li><b>Technologies</b></li>
+			<li>HTML5</li>
+			<li>CSS3</li>
+			<li>SASS</li>
+			<li>Javascript</li>
+			<li>jQuery</li>
+			<li>PHP</li>
+			<li>Wordpress</li>
+		</ul>
+
+		<a href='https://github.com/belcortes/michael-wordpress' target='_blank'><img src="{{ "/assets/github.png" | absolute_url }}" /></a>
+
+	</div>
+	<img src="{{ "/assets/michael.png" | absolute_url }}">
+</div>

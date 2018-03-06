@@ -2,13 +2,24 @@
 layout: default
 ---
 <article class="post">
+	{% if page.url == "/about/" %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.caption | escape }}</h1>
-  </header>
+	{% else %}
+	  <header class="post-header">
+	    <h1 class="post-title">{{ page.caption | escape }}</h1>
+	  </header>
+	{% endif %}
+  
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  {% if page.url == "/contact/" %}
+	  <div class="post-content-for-contact">
+	    {{ content }}
+	  </div>
+	{% else %}
+	  <div class="post-content">
+	    {{ content }}
+	  </div>
+	{% endif %}
+  
 
 </article>

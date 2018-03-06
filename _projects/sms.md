@@ -1,15 +1,15 @@
 ---
 layout: project
-title:  "Big Figment"
-name: bigfig
+title:  "SMS"
+name: sms
 categories: product building
-blurb: Website to showcase the art of Michael Barnett
+blurb: Monitoring software for shelters
 ---
 <div class='project-page'>
 	<div class='project-page__header-container'>
 		<div class='project-page__blurb'>
-			Website for the Brooklyn based band Big Figment. 
-			<br>Static creative website.
+			Monitoring software for shelters
+			<br>Complex, real-time, back end and front end
 		</div>
 
 
@@ -20,10 +20,11 @@ blurb: Website to showcase the art of Michael Barnett
 			<li>SASS</li>
 			<li>Javascript</li>
 			<li>jQuery</li>
-			<li>PHP</li>
-			<li>Wordpress</li>
+			<li>ES6</li>
+			<li>Ruby on Rails</li>
 		</ul>
 
+
 	</div>
-	<img src="{{ "/assets/michael.png" | absolute_url }}">
+	<img src="{{ "/assets/sms.png" | absolute_url }}">
 </div>

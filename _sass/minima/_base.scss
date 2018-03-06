@@ -1,9 +1,9 @@
  @mixin gradient {
    background: #ff4e56; /* For browsers that do not support gradients */
-   background: -webkit-linear-gradient( #ff844f, #ff4e56); /* For Safari 5.1 to 6.0 */
-   background: -o-linear-gradient( #ff844f, #ff4e56); /* For Opera 11.1 to 12.0 */
-   background: -moz-linear-gradient( #ff844f, #ff4e56); /* For Firefox 3.6 to 15 */
-   background: linear-gradient( #ff844f, #ff4e56); /* Standard syntax (must be last) */
+   background: -webkit-linear-gradient( to right, #ffb04f, #ff4e56); /* For Safari 5.1 to 6.0 */
+   background: -o-linear-gradient( to right, #ffb04f, #ff4e56); /* For Opera 11.1 to 12.0 */
+   background: -moz-linear-gradient( to right, #ffb04f, #ff4e56); /* For Firefox 3.6 to 15 */
+   background: linear-gradient( to right, #ffb04f, #ff4e56); /* Standard syntax (must be last) */
  }
 
 /**
@@ -197,6 +197,35 @@ pre {
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
+
+  @include media-query($on-palm) {
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.wrapper-for-home {
+  margin-right: 0;
+  margin-left: 0;
+  padding-right: 0;
+  padding-left: 0;
+  @extend %clearfix;
+
+  // @include media-query($on-laptop) {
+  //   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+  //   max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+  //   padding-right: $spacing-unit / 2;
+  //   padding-left: $spacing-unit / 2;
+  // }
+
+  // @include media-query($on-palm) {
+  //   margin-right: 0;
+  //   margin-left: 0;
+  //   padding-right: 0;
+  //   padding-left: 0;
+  // }
 }
 
 
